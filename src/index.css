@@ -140,6 +140,18 @@
       @apply text-gray-100 font-medium text-base;
     }
   }
+  
+  .footer {
+    @apply w-full py-8 mt-20 bg-dark-100 flex justify-center items-center;
+  }
+  
+  .footer-content {
+    @apply flex flex-col sm:flex-row gap-6 text-white text-center;
+  }
+  
+  .footer a {
+    @apply text-light-100 hover:text-light-200 transition-colors;
+  }
 }
 
 @utility text-gradient {

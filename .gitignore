@@ -24,3 +24,6 @@ notes.txt
 *.njsproj
 *.sln
 *.sw?
+
+# Environment variables
+.env
