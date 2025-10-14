@@ -2,7 +2,7 @@
 
 Tools used: React (with Vite), Tailwind CSS, Appwrite (Backend), TheMovieDB (API)
 
-🌐http://moviedb.cartmixbd.com/
+🌐https://moviedb.cartmixbd.com/
 
 ### Key Features
 
